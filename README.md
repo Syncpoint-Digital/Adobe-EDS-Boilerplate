@@ -2,8 +2,13 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--adobe-eds-boilerplate--syncpoint-digital.aem.page/
+- Live: https://main--adobe-eds-boilerplate--syncpoint-digital.aem.live/
+Edit your content:
+  https://da.live/#/syncpoint-digital/adobe-eds-boilerplate/
+Add users:
+Use the admin tool:
+  https://labs.aem.live/tools/user-admin/index.html
 
 ## Documentation
 
